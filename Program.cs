@@ -9,6 +9,9 @@ class Program
         Console.WriteLine(Printer(5, 5));
         Console.WriteLine(Printer(15, 5));
         Console.WriteLine(Printer(5, 5));
+        Console.WriteLine(Printer(5, 5));
+        Console.WriteLine(Printer(5, 5));
+        Console.WriteLine(Printer(5, 5));
 
     }
 
